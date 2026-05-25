@@ -1,8 +1,8 @@
 # Kashan Ahmed Portfolio Web
 Power BI &amp; Data Analytics portfolio website showcasing dashboard creation, data visualization, DAX, Power Query, SQL, and statistical analysis projects.
 <br>
-## Kashan Ahmed Portfolio
-# Kashan Ahmed — Data Analyst & Power BI Developer Portfolio
+
+Kashan Ahmed — Data Analyst & Power BI Developer Portfolio
 
 A professional analytics portfolio website built with pure HTML, CSS, and JavaScript. 
 No frameworks, no dependencies — just clean, fast, modern code.
