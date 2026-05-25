@@ -1,5 +1,5 @@
 
-Power BI &amp; Data Analytics portfolio website showcasing dashboard creation, data visualization, DAX, Power Query, SQL, and statistical analysis projects.
+Power BI &amp; Data Analytics Portfolio website showcasing Dashboard Creation, Data Visualization, DAX, Power Query, SQL, and Statistical analysis projects.
 <br>
 
 # Kashan Ahmed — Data Analyst & Power BI Developer Portfolio
