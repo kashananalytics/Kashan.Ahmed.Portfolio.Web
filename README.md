@@ -7,7 +7,7 @@ Power BI &amp; Data Analytics portfolio website showcasing dashboard creation, d
 A professional analytics portfolio website built with pure HTML, CSS, and JavaScript. 
 No frameworks, no dependencies — just clean, fast, modern code.
 
-🌐 **Live Site:** (https://kashananalytics.github.io/Kashan.Ahmed.Portfolio.Web/))
+🌐 **Live Site:** (https://kashananalytics.github.io/Kashan.Ahmed.Portfolio.Web/)
 
 ---
 
